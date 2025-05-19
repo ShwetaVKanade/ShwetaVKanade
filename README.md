@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetavkanade&label=Profile%20views&color=0e75b6&style=flat" alt="shwetavkanade" /> </p>
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3931.jpg?uid=R161093277&ga=GA1.1.1151594731.1723203399&semt=ais_hybrid">
+<img align="right" alt="Coding" width="400" src="https://template.canva.com/EAFzGa8kk30/3/0/1600w-lU0JB64VYys.jpg">
 <p align="left">
 <a href="https://twitter.com/shwetakanade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shwetakanade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shweta-kanade-315557222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shweta-kanade-315557222" height="30" width="40" /></a>
