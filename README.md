@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/736x/d0/29/d7/d029d7482ba0d8f7ae5a8d9778905e0d.jpg" alt="MasterHead" style="width:100%; height:auto;" />
+<img src="https://i.pinimg.com/736x/4e/9f/e4/4e9fe4a15ef513a648c41cc61c625b8d.jpg" alt="MasterHead" style="width:100%; height:auto;" />
 
 <h1 align="center">Hi 👋, I'm Shweta Kanade</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
