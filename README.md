@@ -1,5 +1,6 @@
 
-![MasterHead](https://i.pinimg.com/736x/d0/29/d7/d029d7482ba0d8f7ae5a8d9778905e0d.jpg)
+<img src="https://i.pinimg.com/736x/d0/29/d7/d029d7482ba0d8f7ae5a8d9778905e0d.jpg" alt="MasterHead" style="width:100%; height:auto;" />
+
 <h1 align="center">Hi 👋, I'm Shweta Kanade</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetavkanade&label=Profile%20views&color=0e75b6&style=flat" alt="shwetavkanade" /> </p>
