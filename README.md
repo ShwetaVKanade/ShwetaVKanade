@@ -1,12 +1,8 @@
 
-![MasterHead](https://template.canva.com/EAENvnz2Qi8/1/0/1600w-fbMCR5kTS38.jpg)
+![MasterHead](https://i.pinimg.com/736x/4e/9f/e4/4e9fe4a15ef513a648c41cc61c625b8d.jpg)
 <h1 align="center">Hi 👋, I'm Shweta Kanade</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetavkanade&label=Profile%20views&color=0e75b6&style=flat" alt="shwetavkanade" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/shwetakanade" target="blank"><img src="https://img.shields.io/twitter/follow/shwetakanade?logo=twitter&style=for-the-badge" alt="shwetakanade" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3931.jpg?uid=R161093277&ga=GA1.1.1151594731.1723203399&semt=ais_hybrid">
 <p align="left">
