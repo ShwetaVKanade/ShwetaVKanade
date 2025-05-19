@@ -1,5 +1,5 @@
 
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1741003633~exp=1741007233~hmac=fd8e066149c0af484e6066f0df7e1711bf00d44a38183c92b91a411f95e835a6&w=1380)
+![MasterHead](https://template.canva.com/EAENvnz2Qi8/1/0/1600w-fbMCR5kTS38.jpg)
 <h1 align="center">Hi 👋, I'm Shweta Kanade</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetavkanade&label=Profile%20views&color=0e75b6&style=flat" alt="shwetavkanade" /> </p>
