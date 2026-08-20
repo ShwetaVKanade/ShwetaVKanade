@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Shweta Kanade - Full Stack Developer"/>
+  <img src="https://i.pinimg.com/736x/60/ed/2a/60ed2a17077bc3e5c658673b0fefae3b.jpg" width="100%" alt="Shweta Kanade - Full Stack Developer"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shweta Kanade</h1>
