@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/60/ed/2a/60ed2a17077bc3e5c658673b0fefae3b.jpg" width="100%" alt="Shweta Kanade - Full Stack Developer"/>
+  <img src="https://windowsreport.com/wp-content/uploads/2026/04/GitHub-1024x600.png" width="100%" height="300 px" alt="Shweta Kanade - Full Stack Developer"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shweta Kanade</h1>
